@@ -1,0 +1,13 @@
+# Maven build output
+target/
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA: default ignored files
+/.idea/shelf/
+/.idea/workspace.xml
+# IntelliJ IDEA: Markdown personal settings
+/.idea/markdown.xml
+# IntelliJ IDEA: Editor-based HTTP Client requests
+/.idea/httpRequests/
