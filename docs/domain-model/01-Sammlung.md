@@ -37,7 +37,7 @@
           - Bedingung: Entweder Häuser oder Hotel
           - Berechnete Miete: 
             - Grundmiete
-            - Alle Straßen eine Gruppe im Besitz, dann doppelte Miete
+            - Alle Straßen einer Gruppe im Besitz, dann doppelte Miete
             - Mit Häusern höhere Miete
         - Bahnhof
           - Namen: Süd-, West-, Nord- und Hauptbahnhof
@@ -91,7 +91,7 @@
   - Bezahlt Geld aus
     - Über/Auf Los gehen
     - Aktionskarten
-    - Hyotheken ausgeben
+    - Hypotheken ausgeben
     - Abgerissene Häuser / Hotels
   - Bekommt Geld für
     - Gebaute Häuser / Hotels
@@ -102,7 +102,7 @@
     - Grundstückskauf
 - Spielzug
   1. Aktionen ausführen
-  2. Würfel
+  2. Würfeln
   3. Spielfigur ziehen
   4. Miete bezahlen / Grundstück kaufen
 
@@ -118,7 +118,7 @@
 ## Aktionen
 - Handeln inkl. Tauschen
   - Grundstücke von anderen Spielern kaufen
-  - Ein Spieler darf Handeln, wenn er am Spielzug ist
+  - Ein Spieler darf handeln, wenn er am Spielzug ist
   - Ein Spieler darf während seines gesamten Spielzuges handeln
 - Handeln und Tauschen mit Bebauung
   - Bei Übernahme eines Teils der Straßen einer Farbe muss die Bebauung entfernt werden
@@ -151,13 +151,13 @@
   - Geld geht an die Bank
   - Es dürfen 4 Häuser auf einem Grundstück stehen und die anderen Straßen der Farbe dürfen leer sein.
 - Hotel bauen
-  - Wenn 4 Häuser auf einer Straße stehen, darf eine Hotel gebaut werden
+  - Wenn 4 Häuser auf einer Straße stehen, darf ein Hotel gebaut werden
   - Das Hotel ersetzt die Häuser
   - Häuser stehen wieder zum Bau anderer Häuser bereit
   - Häuser und Kaufpreis transformieren zu einem Hotel
-- Häuser abreisen
+- Häuser abreißen
   - Die Hälfte des Kaufpreises wird erstattet
-  - Während des gesamten Spielzugs, darf ein Spieler auf allen Straßen in seinem Besitz Bebauung abreisen
+  - Während des gesamten Spielzugs, darf ein Spieler auf allen Straßen in seinem Besitz Bebauung abreißen
 - Hypothek aufnehmen
   - Karte verdecken
   - Hälfte Grundstückswert als Liquidität --> Ein anderer Betrag geht nicht
@@ -197,7 +197,7 @@
     2. Hypothek aufnehmen, um Liquidität zu bekommen --> Hypothek zu klein
     3. Spieler C bekommt alle Grundstücke inklusive Hypothek von Spieler A
       - Spieler C muss Hypothek begleichen oder 10% der Hypothek an Bank bezahlen
-      - Wenn Spielcer C die Hypothek nicht begleichen kann, wird das Grundstück versteigert
+      - Wenn Spieler C die Hypothek nicht begleichen kann, wird das Grundstück versteigert
     4. Spieler A ist bankrott und verlässt das Spiel
 - Geld bekommen, bei über Los gehen
   - 200 Monopoly von der Bank an den Spieler
@@ -225,11 +225,11 @@
   - Pro Spielzug 3 Versuche einen Pasch zu würfeln
   - Bei Pasch freikommen aus Gefängnis
   - Nach dem Freikommen, normaler Spielzug
-    - Ein Pasch der 3-Pasch-Regel ist bereits verbraucht, um aus dem Gefängnis frei zu kommen
+    - Ein Pasch der 3-Pasch-Regel ist bereits verbraucht, um aus dem Gefängnis freizukommen
     - Bei zwei Pasch ist man dadurch wieder im Gefängnis
   - Vor dem Spielzug 50 Monopoly an Bank bezahlen
   - Gemeinschafts- oder Ereigniskarte einlösen
-  - Nach 3 Spielzügen muss 50 Monopoly bezahlt werden, um frei zu kommen --> letze Augenzahl wird zum Ziehen verwendet
+  - Nach 3 Spielzügen muss 50 Monopoly bezahlt werden, um freizukommen --> letzte Augenzahl wird zum Ziehen verwendet
 - Spieler landet mit Augenzahl auf dem Gefängnis
   - Nur zu Besuch
   - Keine besondere Aktion

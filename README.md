@@ -6,7 +6,8 @@ Am Beispiel des Brettspiels Monopoly werden die in der Vorlesung behandelten Kon
 
 ## Dokumentation
 
-- [Domänenmodell](docs/Domain-Model.md): Spielelemente, Begriffe, Spielregeln und Aktionen
+- Domänenmodell
+  - [Sammlung](docs/domain-model/01-Sammlung.md): Spielelemente, Begriffe, Spielregeln und Aktionen als lose Sammlung
 
 ## Voraussetzungen
 
