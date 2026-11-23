@@ -11,6 +11,7 @@ Am Beispiel des Brettspiels Monopoly werden die in der Vorlesung behandelten Kon
   - [Struktur nach Informationsart](docs/domain-model/02a-Struktur-nach-Informationsart.md): Begriffe, Spielelemente, Regeln, Abläufe, Szenarien und offene Fragen
   - [Struktur nach Themen](docs/domain-model/02b-Struktur-nach-Themen.md): Spielbrett, Spielablauf, Besitz, Geld, Gefängnis, Karten und Bankrott
   - [Struktur nach Themen und Informationsart](docs/domain-model/02c-Struktur-nach-Themen-und-Informationsart.md): Themen als Kapitel, darin Begriffe, Spielelemente, Regeln, Abläufe, Szenarien und offene Fragen
+  - [Glossar](docs/domain-model/03-Glossar.md): Eindeutige Begriffe der Domäne als Grundlage der Ubiquitous Language
 
 ## Voraussetzungen
 

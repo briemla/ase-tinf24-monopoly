@@ -249,3 +249,14 @@ Die Inhalte der [Sammlung](01-Sammlung.md) sind nach fachlichen Themen geordnet.
   - Versteigerungsende definieren?
 - Aktionskarten
   - Hinweise: Kunde muss alle Beschreibungen und deren Aktionen definieren
+- Fachsprache
+  - Karte zum Grundstück: Gibt es eine Karte zum Grundstück (z.B. „Karte verdecken“, „Karte in seinen Besitz nehmen“) oder wird nur vom Grundstück gesprochen (z.B. „Grundstück ist mit Hypothek belastet“)?
+  - Aktionen im Spielzug: Wie heißen die Aktionen im Spielzug (Handeln, Bauen, Hypothek), damit sie nicht mit den Aktionen von Aktionsfeldern und Aktionskarten verwechselt werden?
+  - Handeln und Tauschen: Dürfen in einem Handel Geld und Grundstücke gemischt werden (z.B. Grundstück + 100 Monopoly gegen Grundstück)? Braucht es dann noch getrennte Begriffe für Handeln und Tauschen?
+  - Hypothek: Gilt die Hypothek nur für Straßen oder für alle Grundstücke ohne Bebauung, also auch für Bahnhöfe und Werke?
+  - Liquidität: Bleibt der Begriff Liquidität oder wird ein anderer Begriff wie Guthaben verwendet?
+- Annahmen im Glossar
+  - Ecken: Sind die vier Ecken des Spielbretts Los, Gefängnis, Frei Parken und Direkt in das Gefängnis?
+  - Freie Grundstücke: Gehören Grundstücke, die keinem Spieler gehören, der Bank?
+  - Hypothekenzinsen: Worauf beziehen sich die 10 % Zinsen beim Auflösen einer Hypothek, auf den Hypothekenwert?
+  - Würfeln: Wird mit zwei Würfeln gewürfelt und ist die Augenzahl die Summe beider Würfel (statt einer zufälligen Zahl zwischen 2 und 12)?
