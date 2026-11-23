@@ -8,6 +8,9 @@ Am Beispiel des Brettspiels Monopoly werden die in der Vorlesung behandelten Kon
 
 - Domänenmodell
   - [Sammlung](docs/domain-model/01-Sammlung.md): Spielelemente, Begriffe, Spielregeln und Aktionen als lose Sammlung
+  - [Struktur nach Informationsart](docs/domain-model/02a-Struktur-nach-Informationsart.md): Begriffe, Spielelemente, Regeln, Abläufe, Szenarien und offene Fragen
+  - [Struktur nach Themen](docs/domain-model/02b-Struktur-nach-Themen.md): Spielbrett, Spielablauf, Besitz, Geld, Gefängnis, Karten und Bankrott
+  - [Struktur nach Themen und Informationsart](docs/domain-model/02c-Struktur-nach-Themen-und-Informationsart.md): Themen als Kapitel, darin Begriffe, Spielelemente, Regeln, Abläufe, Szenarien und offene Fragen
 
 ## Voraussetzungen
 
